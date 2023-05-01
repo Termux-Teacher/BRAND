@@ -1,0 +1,2 @@
+import seta
+seta.login()
